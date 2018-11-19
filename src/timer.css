@@ -1,0 +1,12 @@
+.timer-digits{
+    font-size: 300%;
+}
+.timer-text{
+    display: flex;
+    justify-content: stretch;
+    color: gray;
+}
+.timer-minute{
+    padding-left: 5px;
+    padding-right: 5px;
+}
